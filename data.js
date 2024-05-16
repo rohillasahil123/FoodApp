@@ -1,0 +1,73 @@
+const data = [
+    {
+        id:1,
+        image:"src/assets/pizza.jpg",
+        price:"120$",
+        name:"pizza",
+        catagory:"fast-food"
+    },
+    {
+        id:2,
+        image:"src/assets/burger.jpg",
+        price:"180$",
+        name:"burger",
+        catagory:"fast-food"
+    },
+    {
+        id:3,
+        image:"src/assets/chaumin.jpg",
+        price:"110$",
+        name:"chaumin",
+        catagory:"fast-food"
+    },
+    {
+        id:4,
+        image:"src/assets/Chai.jpg",
+        price:"20$",
+        name:"Tea",
+        catagory:"breack-fast"
+    },
+    {
+        id:5,
+        image:"src/assets/momose.jpg",
+        price:"230$",
+        name:"momose",
+        catagory:"fast food"
+    },
+    {
+        id:6,
+        image:"src/assets/springroll.jpg",
+        price:"140$",
+        name:"springrole",
+        catagory:"fast food"
+    },
+    {
+        id:7,
+        image:"src/assets/samosa.jpg",
+        price:"240$",
+        name:"Samosa",
+        catagory:"Junck Food"
+    },
+    {
+        id:8,
+        image:"src/assets/gulabjamun.jpg",
+        price:"300$",
+        name:"Gulabjamun",
+        catagory:"Sweet"
+    },
+    {
+        id:9,
+        image:"src/assets/rasgulla.jpg",
+        price:"260$",
+        name:"Rasgulla",
+        catagory:"Sweet"
+    },
+    {
+        id:10,
+        image:"src/assets/gajerpak.jpg",
+        price:"120$",
+        name:"Gajerpak",
+        catagory:"Sweet"
+    },
+]
+export default data
